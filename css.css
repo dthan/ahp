@@ -1,0 +1,55 @@
+
+	
+body{
+margin : 0;
+		width: auto;
+		background-image: linear-gradient(bottom, rgb(47,115,120) 4%, rgb(138,222,222) 63%);
+		background-image: -o-linear-gradient(bottom, rgb(47,115,120) 4%, rgb(138,222,222) 63%);
+		background-image: -moz-linear-gradient(bottom, rgb(47,115,120) 4%, rgb(138,222,222) 63%);
+		background-image: -webkit-linear-gradient(bottom, rgb(47,115,120) 4%, rgb(138,222,222) 63%);
+		background-image: -ms-linear-gradient(bottom, rgb(47,115,120) 4%, rgb(138,222,222) 63%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left bottom,
+			left top,
+			color-stop(0.04, rgb(47,115,120)),
+			color-stop(0.63, rgb(138,222,222))
+		);
+font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1{
+font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.container{
+	height: auto;
+	width: 960px;
+	margin: auto;
+	}
+
+.tabel{
+background: url(image/content2.png) repeat-y bottom;
+height: 400px;
+overflow: scroll;
+}
+
+.header{
+		position: relative;
+		width: 960px;
+		height: 150px;
+		margin: 0;	
+			color: #ffffff;
+		background: url(image/header2.png) repeat-x;
+}
+
+.footer{position: relative ;
+	/* background: blue; */
+	height: 120px;
+	font-size: 12px;
+	color: #ffffff;
+	font-weight:bold;
+	
+	/*top: -20px;*/
+	background: url(image/footer.png) repeat-x;}
