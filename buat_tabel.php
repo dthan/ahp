@@ -1,7 +1,10 @@
 <?php
 
-    /*code by : muhammad deden firdaus
-      website : dthan.net*/
+    /*
+     for AHP calculating
+     https://github.com/dthan
+     dthan.net
+    */
 
   $jml=$_POST['jml'];
   $kolom=$jml+1;
