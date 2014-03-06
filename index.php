@@ -1,5 +1,5 @@
 <!--
-    for AHP calculating
+    for AHP calculation
     https://github.com/dthan
     dthan.net
  -->
