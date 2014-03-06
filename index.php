@@ -1,6 +1,7 @@
 <!--
-    code by : muhammad deden firdaus
-    website : dthan.net
+    for AHP calculating
+    https://github.com/dthan
+    dthan.net
  -->
 <html>
 <head>
